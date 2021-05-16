@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FabioD-rob
+- 👋 Hi, I’m Fabio D'Onofrio, I'm a Robotics and Automation Engineer.
 - 👀 My principal subjects of interest are: Aerospace robotics, orbital mechanics, control theory, spacecraft guidance, navigation and control.
 - 🌱 I’m currently permorming research activity on rendezvous dynamics in Cis-Lunar orbit at the University of Pisa, Department of Information Engineering.
 - 📫 How to reach me: email- f.donofrio6@studenti.unipi.it  or  fabio.donofrio93@virgilio.it
